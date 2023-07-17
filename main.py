@@ -124,3 +124,4 @@
 #         print('Забил гол')
 # class Goalkeeper(Player):
 #     def __init__(self:
+
